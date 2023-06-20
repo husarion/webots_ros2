@@ -1,4 +1,4 @@
-#VRML_SIM R2022a utf8
+#VRML_SIM R2023a utf8
 
 
 EXTERNPROTO "webots://projects/objects/backgrounds/protos/TexturedBackground.proto"
@@ -17,7 +17,7 @@ WorldInfo {
 Viewpoint {
   orientation 0.247297 -0.168564 -0.954165 -1.93179
   position 6.40263 -11.291 6.82282
-  follow "Rosbot"
+  follow "rosbot"
 }
 TexturedBackground {
   texture "empty_office"
